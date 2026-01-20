@@ -1,0 +1,14 @@
+﻿using lAB_2;
+Console.WriteLine("Введите фунты:");
+int funt = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите дюймы:");
+int inch = int.Parse(Console.ReadLine());
+EngMer Calculate = new EngMer();
+funt /= 12;
+Calculate.Funt = funt;
+Calculate.Inch = inch;
+Console.WriteLine($"Результат умножения: {Calculate.Multiplication()}");
+Console.WriteLine($"Результат сложения: {Calculate.Complicated()}");
+Console.WriteLine($"Результат вычитания: {Calculate.subtraction()}");
+Console.WriteLine($"Резултат деления: {Calculate.Division()}");
+Console.WriteLine($"Резульат сравнения: {Calculate.Comparison()}");
