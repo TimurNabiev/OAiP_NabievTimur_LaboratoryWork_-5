@@ -1,0 +1,14 @@
+C:\Users\Тимур\source\repos\sicharp\sicharp\bin\Debug\net10.0\sicharp.exe
+C:\Users\Тимур\source\repos\sicharp\sicharp\bin\Debug\net10.0\sicharp.deps.json
+C:\Users\Тимур\source\repos\sicharp\sicharp\bin\Debug\net10.0\sicharp.runtimeconfig.json
+C:\Users\Тимур\source\repos\sicharp\sicharp\bin\Debug\net10.0\sicharp.dll
+C:\Users\Тимур\source\repos\sicharp\sicharp\bin\Debug\net10.0\sicharp.pdb
+C:\Users\Тимур\source\repos\sicharp\sicharp\obj\Debug\net10.0\sicharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимур\source\repos\sicharp\sicharp\obj\Debug\net10.0\sicharp.AssemblyInfoInputs.cache
+C:\Users\Тимур\source\repos\sicharp\sicharp\obj\Debug\net10.0\sicharp.AssemblyInfo.cs
+C:\Users\Тимур\source\repos\sicharp\sicharp\obj\Debug\net10.0\sicharp.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\source\repos\sicharp\sicharp\obj\Debug\net10.0\sicharp.dll
+C:\Users\Тимур\source\repos\sicharp\sicharp\obj\Debug\net10.0\refint\sicharp.dll
+C:\Users\Тимур\source\repos\sicharp\sicharp\obj\Debug\net10.0\sicharp.pdb
+C:\Users\Тимур\source\repos\sicharp\sicharp\obj\Debug\net10.0\sicharp.genruntimeconfig.cache
+C:\Users\Тимур\source\repos\sicharp\sicharp\obj\Debug\net10.0\ref\sicharp.dll
